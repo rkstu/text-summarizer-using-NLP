@@ -60,7 +60,6 @@ open up you local host and port
 
 ```bash
 Author: Rahul Kumar
-Data Scientist
 Email: rkmailcode@gmail.com
 
 ```
