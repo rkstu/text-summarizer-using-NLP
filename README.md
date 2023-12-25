@@ -100,7 +100,7 @@ Email: rkmailcode@gmail.com
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 507687198673.dkr.ecr.us-east-1.amazonaws.com/text-summarisation
+    - Save the URI: {URL}
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
